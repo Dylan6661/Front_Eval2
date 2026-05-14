@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Entorno virtual Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables de entorno locales
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+
+# Documentación
+*.md
+LICENSE
